@@ -1,0 +1,26 @@
+{
+  "name": "node-todo-app",
+  "version": "1.0.0",
+  "description": "Node.js Todo App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AakashKamboj/node-todo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AakashKamboj/node-todo-app/issues"
+  },
+  "homepage": "https://github.com/AakashKamboj/node-todo-app#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
