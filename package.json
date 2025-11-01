@@ -4,8 +4,9 @@
   "description": "Node.js Todo App",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
-  },
+  "start": "node app.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AakashKamboj/node-todo-app.git"
